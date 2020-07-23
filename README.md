@@ -1,2 +1,2 @@
-# phython-challenge
+# python-challenge
 Python homework
